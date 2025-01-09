@@ -29,8 +29,3 @@ This thesis is a work in progress. My next steps include:
 - Exploring how parental education interacts with income to influence outcomes.
 - Expanding the dataset and scope of analysis to include other factors, such as school quality and community resources.
 - Proposing detailed, evidence-based policy solutions to improve educational equity.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/garfsters/economics-thesis
